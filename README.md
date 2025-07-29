@@ -1,4 +1,4 @@
-# online-retail-analysis
+# online-retail-analysis-data science
 # 🛍️ Customer Segmentation with RFM
 
 This project segments customers based on purchasing behavior using RFM (Recency, Frequency, Monetary) analysis.
